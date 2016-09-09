@@ -8,3 +8,8 @@ To compile, just type ```make```.
 Dependencies:
   - boost::numeric::ublas
   - boost::function
+
+
+## Resut plot example
+
+![alt tag](https://raw.githubusercontent.com/amstuta/cpp_neural_network/master/resources/result.png)
