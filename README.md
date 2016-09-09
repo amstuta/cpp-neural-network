@@ -10,6 +10,6 @@ Dependencies:
   - boost::function
 
 
-## Resut plot example
+## Result plot example
 
 ![alt tag](https://raw.githubusercontent.com/amstuta/cpp_neural_network/master/resources/result.png)
